@@ -1,3 +1,3 @@
-# helloWorld
+# datasciencecoursera
 
-What the heck is a .md file? Am I just stupid?
+Yeah. I know what a .md file is now...
